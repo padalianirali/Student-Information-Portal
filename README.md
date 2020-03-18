@@ -1,4 +1,4 @@
-A simple student information portal using Tkinter and MySQL<br/>
+A simple student information portal to execute CRUD operations using Tkinter and MySQL<br/>
 <br/>
 <b>CRUD operations</b>
 - Insert
